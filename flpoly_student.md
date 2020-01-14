@@ -1,23 +1,23 @@
-## First Name Last Name
+## Cindy Nguyen
 
 ### Spring 2020 
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to Data Science
 
-- Course 2
+- Operations Research
 
-- Course 3
+- Statistical Learning
 
-- Course 4
+- Time Series Modeling and Forecasting
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Learning about Data Science
 
-- Thing 2
+- Music
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- <https://floridapoly.edu/degree/data-science/>
