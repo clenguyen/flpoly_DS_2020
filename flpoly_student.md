@@ -1,13 +1,3 @@
-
-a. Make sure your GitHub repo (`flpoly_DS_2020/`) shows the results of your updated file (remember to use the commands `git add .` , `git commit -m "YOUR MESSAGE"`, and `git push`) 
-
-b. Include a link to your GitHub repo in this document.
-
-c. Take a screenshot of the GitHub repo and include it in this document (you can save a copy of the screenshot file in your GitHub repo `flpoly_DS_2020/`)
-
-
-
-
 # Spring 2020
 
 ## Cindy Nguyen
